@@ -1,0 +1,5 @@
+﻿  Polygon.cpp
+  Vector2D.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+  Generating Code...
+  Lab3A.vcxproj -> C:\Users\James\OneDrive - Swinburne University\Desktop\COS30008\Lab3A\x64\Debug\Lab3A.exe

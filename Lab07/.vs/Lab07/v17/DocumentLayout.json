@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\BubbleSorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|solutionrelative:BubbleSorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\ArraySorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|solutionrelative:ArraySorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\FisherAndYatesSorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{432786AE-F71A-4A82-A374-EB08FEA33CF1}|Lab07.vcxproj|solutionrelative:FisherAndYatesSorter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArraySorter.h",
+              "DocumentMoniker": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\ArraySorter.h",
+              "RelativeDocumentMoniker": "ArraySorter.h",
+              "ToolTip": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\ArraySorter.h",
+              "RelativeToolTip": "ArraySorter.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwFkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-23T02:51:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-23T02:51:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BubbleSorter.h",
+              "DocumentMoniker": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\BubbleSorter.h",
+              "RelativeDocumentMoniker": "BubbleSorter.h",
+              "ToolTip": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\BubbleSorter.h",
+              "RelativeToolTip": "BubbleSorter.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-23T02:51:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FisherAndYatesSorter.h",
+              "DocumentMoniker": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\FisherAndYatesSorter.h",
+              "RelativeDocumentMoniker": "FisherAndYatesSorter.h",
+              "ToolTip": "C:\\Users\\James\\OneDrive - Swinburne University\\Desktop\\COS30008\\Lab07\\FisherAndYatesSorter.h",
+              "RelativeToolTip": "FisherAndYatesSorter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-23T02:51:35.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
