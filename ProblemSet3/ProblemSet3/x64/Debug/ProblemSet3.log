@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  SortablePair.cpp
+  Generating Code...
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS30008\Data-Structures\ProblemSet3\SortablePair.cpp(26,19): error C3861: 'a': identifier not found
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS30008\Data-Structures\ProblemSet3\SortablePair.cpp(26,48): error C3861: 'a': identifier not found
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS30008\Data-Structures\ProblemSet3\SortablePair.cpp(26,19): error C2065: 'a': undeclared identifier
+C:\Users\James\OneDrive - Swinburne University\Desktop\COS30008\Data-Structures\ProblemSet3\SortablePair.cpp(26,48): error C2065: 'a': undeclared identifier

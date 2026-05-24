@@ -1,21 +1,42 @@
 #include "SortablePair.h"
 
-SortablePair::SortablePair(const K& aFirst = K{}, const V& aSecond = V{}) noexcept :
+
+template<typename K, typename V>
+SortablePair<K, V>::SortablePair(const K& aFirst, const V& aSecond ) noexcept :
+	fFirst(aFirst), fSecond(aSecond)
 {
 
 }
 
-const K& SortablePair::first() const noexcept {
-
-}
-const V& SortablePair::second() const noexcept {
-	
-}
-
-bool SortablePair::operator==(const SortablePair& aOther) const noexcept {
-
+template<typename K, typename V>
+const K& SortablePair<K, V>::first() const noexcept
+{
+	return fFirst;
 }
 
-bool operator<(const SortablePair& aOther) const noexcept;
+template<typename K, typename V>
+const V& SortablePair<K, V>::second() const noexcept
+{
+	return fSecond;
+}
 
-friend std::ostream& operator<<(std::ostream& aOStream, const SortablePair<K, V>& aPair);
+template<typename K, typename V>
+bool SortablePair<K, V>	::operator==(const SortablePair& aOther) const noexcept
+{
+	return fFirst == a.Other.fFirst && fSecond == a.Other.fSecond;
+
+}
+
+template<typename K, typename V>
+bool SortablePair<K, V>::operator<(const SortablePair& aOther) const noexcept
+{
+	return fFirst > aOther.fFirst;
+}
+
+
+template<typename K, typename V>
+std::ostream& operator<<(std::ostream& aOStream, const SortablePair<K, V>& aPair)
+{
+	aOStream << '(' << aPair.fFirst << ',' << aPair.fSecond << ')';
+	return aOStream;
+}
